@@ -1,4 +1,4 @@
-# Azure Storage Account Project
+# Azure Cloud Storage Administration Lab
 ## Project Summary
 
 This project demonstrates the creation and management of Azure cloud resources using Microsoft Azure Portal.
@@ -11,7 +11,8 @@ In this lab, I:
 - Downloaded and verified file changes
 - Deleted resources to avoid cloud costs
 
-This project helped me gain hands-on experience with cloud infrastructure and Azure resource management.
+Completed a hands-on Microsoft Azure lab demonstrating creation, management, verification, and cleanup of cloud storage resources while following cost-conscious cloud practices.
+
 ## Technologies Used
 
 - Microsoft Azure
